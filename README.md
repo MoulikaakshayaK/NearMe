@@ -172,12 +172,13 @@ temple.html
   ```
 
 ## OUTPUT
-![alt text](<map/mapapps/static/Screenshot 2025-04-11 104939.png>)
-![alt text](<Screenshot (96).png>)
-![alt text](<Screenshot (98).png>)
-![alt text](<Screenshot (99).png>)
+![Screenshot 2025-05-12 223047](https://github.com/user-attachments/assets/6eb5ddc4-ee90-4774-8b36-ddb827138c3c)
 
+![Screenshot 2025-05-12 223150](https://github.com/user-attachments/assets/8ed30f92-7d01-4621-bedb-8b5f789c882f)
 
+![Screenshot 2025-05-12 223133](https://github.com/user-attachments/assets/5fe609d4-35b3-4019-9e0c-0acd4e832245)
+
+![Screenshot 2025-05-12 223206](https://github.com/user-attachments/assets/07984c34-d9cf-4527-9d18-3cf2f20e6de2)
 
 
 
